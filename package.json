@@ -1,0 +1,26 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "testing jest",
+  "main": "capitalize.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchALL"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nijepa/testing-practice.git"
+  },
+  "keywords": [
+    "test",
+    "jest"
+  ],
+  "author": "Nikola Pavicevic",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.1.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.10.4"
+  }
+}
